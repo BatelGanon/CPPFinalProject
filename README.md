@@ -2,4 +2,4 @@
 
  It will represent a Quadratic Equation,
  Using operator-overloading, const-correctness, rule-of-three & rule-of-five method.
- The exercise attached to file
+ The exercise attached to folder
